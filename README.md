@@ -1,9 +1,16 @@
 # AR-Brain-Visualization
 
-Real-Time 3D Brain Visualization in augmented reality without physical markers.
-Used [OpenFace](https://github.com/TadasBaltrusaitis/OpenFace) code snippets for facial feature detection and 3D head rotation estimation.
+## Overview  
 
-## Overview   
+This project was developed by Adrien Hadj-Chaib, Raphael Nacache and Hoang Nguyen.
+
+3D Brain Visualization in augmented reality without physical markers, overlaying a 3D skull model over a real time webcam video feed. 
+
+Used [OpenFace](https://github.com/TadasBaltrusaitis/OpenFace) code snippets for facial feature detection and 3D head rotation estimation. Used C++ OpenGL for the rendering, and C++ OpenCV to capture and process webcam feed.
+
+For the full project report, see the "Report" folder.
+
+## Screenshots
 
 ![Fig1](/Pictures/F1.png)
 ![Fig2](/Pictures/F2.png)
